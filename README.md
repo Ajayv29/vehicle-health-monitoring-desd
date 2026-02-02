@@ -24,28 +24,19 @@ The system integrates multiple sensors with a microcontroller and cloud platform
 ## 🔧 Features
 
 - Real-time engine temperature monitoring  
-- Fuel level monitoring  
-- Battery voltage monitoring  
-- Speed monitoring  
+- oil level monitoring   
 - Driver drowsiness detection  
-- Gas / Smoke detection  
 - Cloud dashboard  
-- Mobile and web alerts  
-
-
+- email alerts  
 
 ## 🧰 Hardware Requirements
 
 - Microcontroller (Arduino / ESP32 / ESP8266)  
-- Temperature Sensor  
-- Gas Sensor  
-- Eye Blink Sensor  
-- Voltage Sensor  
+- Temperature Sensor    
 - LCD Display  
-- Buzzer  
-- Wi-Fi Module  
+- Buzzer
+- vibration sensor
 - Power Supply  
-
 
 
 ## 💻 Software Requirements
@@ -64,13 +55,11 @@ The system integrates multiple sensors with a microcontroller and cloud platform
 5. User monitors remotely  
 
 
-
 ## 📊 Output
 
 - Live sensor values on LCD  
 - Buzzer alerts during danger  
 - Real-time cloud graphs  
-
 
 
 ## 🚀 Applications
