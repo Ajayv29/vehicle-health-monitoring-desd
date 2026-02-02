@@ -2,7 +2,6 @@
 
 An IoT-enabled system designed to monitor real-time vehicle health parameters and driver conditions, and provide instant alerts to prevent accidents and reduce maintenance costs.
 
----
 
 ## 📌 Overview
 
@@ -11,7 +10,7 @@ This project presents an **IoT-Based Vehicle Health Monitoring and Driver Alert 
 
 The system integrates multiple sensors with a microcontroller and cloud platform to enable remote monitoring and driver alerts.
 
----
+
 
 ## 🎯 Objectives
 
@@ -20,7 +19,7 @@ The system integrates multiple sensors with a microcontroller and cloud platform
 - Provide audible and visual alerts  
 - Upload data to the cloud for remote access and analysis  
 
----
+
 
 ## 🔧 Features
 
@@ -33,7 +32,7 @@ The system integrates multiple sensors with a microcontroller and cloud platform
 - Cloud dashboard  
 - Mobile and web alerts  
 
----
+
 
 ## 🧰 Hardware Requirements
 
@@ -47,7 +46,7 @@ The system integrates multiple sensors with a microcontroller and cloud platform
 - Wi-Fi Module  
 - Power Supply  
 
----
+
 
 ## 💻 Software Requirements
 
@@ -55,7 +54,6 @@ The system integrates multiple sensors with a microcontroller and cloud platform
 - Embedded C / C++  
 - IoT Platform (ThingSpeak / Firebase / Blynk)  
 
----
 
 ## ⚙ Working Principle
 
@@ -65,7 +63,7 @@ The system integrates multiple sensors with a microcontroller and cloud platform
 4. Data uploaded to cloud  
 5. User monitors remotely  
 
----
+
 
 ## 📊 Output
 
@@ -73,7 +71,7 @@ The system integrates multiple sensors with a microcontroller and cloud platform
 - Buzzer alerts during danger  
 - Real-time cloud graphs  
 
----
+
 
 ## 🚀 Applications
 
@@ -82,7 +80,7 @@ The system integrates multiple sensors with a microcontroller and cloud platform
 - Accident prevention  
 - Predictive maintenance  
 
----
+
 
 ## 🔮 Future Enhancements
 
@@ -91,8 +89,4 @@ The system integrates multiple sensors with a microcontroller and cloud platform
 - AI-based fault prediction  
 - Camera-based monitoring  
 
----
 
-## 📜 License
-
-MIT License
