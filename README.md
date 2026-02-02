@@ -21,14 +21,14 @@ Provide audible and visual alerts
 Upload data to the cloud for remote access and analysis
 
 🔧 Features
-# Real-time engine temperature monitoring
-# Fuel level monitoring
-# Battery voltage monitoring
-# Speed monitoring
-# Driver drowsiness detection
-# Cloud-based dashboard
-# Mobile and web alerts
-# Data logging and history
+## Real-time engine temperature monitoring
+## Fuel level monitoring
+## Battery voltage monitoring
+## Speed monitoring
+## Driver drowsiness detection
+## Cloud-based dashboard
+## Mobile and web alerts
+## Data logging and history
 
 🧠 System Architecture
 
