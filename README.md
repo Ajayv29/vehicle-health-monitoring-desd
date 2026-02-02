@@ -6,7 +6,9 @@ An IoT-enabled system designed to monitor real-time vehicle health parameters an
 
 📌 Overview
 
-Modern vehicles generate vast amounts of data, but drivers often remain unaware of critical issues until a breakdown or accident occurs. This project presents an IoT-Based Vehicle Health Monitoring and Driver Alert System that continuously tracks vehicle performance and driver status, analyzes the data, and notifies users in real time.
+Modern vehicles generate vast amounts of data, but drivers often remain unaware of critical issues until a breakdown or accident occurs. 
+This project presents an IoT-Based Vehicle Health Monitoring and Driver Alert System that continuously tracks vehicle performance and driver status, 
+analyzes the data, and notifies users in real time.
 
 The system integrates multiple sensors with a microcontroller and cloud platform to enable remote monitoring, early fault detection, and timely driver alerts.
 
@@ -19,15 +21,14 @@ Provide audible and visual alerts
 Upload data to the cloud for remote access and analysis
 
 🔧 Features
-Real-time engine temperature monitoring
-Fuel level monitoring
-Battery voltage monitoring
-Speed monitoring
-Driver drowsiness detection
-Gas/Smoke detection inside vehicle
-Cloud-based dashboard
-Mobile and web alerts
-Data logging and history
+# Real-time engine temperature monitoring
+# Fuel level monitoring
+# Battery voltage monitoring
+# Speed monitoring
+# Driver drowsiness detection
+# Cloud-based dashboard
+# Mobile and web alerts
+# Data logging and history
 
 🧠 System Architecture
 
